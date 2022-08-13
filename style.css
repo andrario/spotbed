@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(10, 10, 10);
+}
+
+input{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    min-width: 50px;
+}
+
+span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+#textoEmbbed{
+    width: 13vw;
+    height: 30px;
+    margin: 10px;
+    min-width: 160px;
+    border-color: gray;
+    border-radius: 4px;
+}
+
+#botaoEmbbed{
+    width: 7vw;
+    height: 35px;
+    background-color: rgb(30, 215, 96);
+    color: black;
+    border: 2px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 4px;
+}
