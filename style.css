@@ -8,10 +8,11 @@ input{
     min-width: 50px;
 }
 
-span{
+.texto{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
 }
+
 
 #textoEmbbed{
     width: 13vw;
@@ -31,4 +32,13 @@ span{
     border-color: gray;
     border-style: solid;
     border-radius: 4px;
+}
+
+#divEmbbedYT{
+    margin: 0 1rem;
+    width:"960vw";
+    height: "540vh";
+    overflow: auto;
+    resize: both;
+    background-color: aliceblue;
 }
